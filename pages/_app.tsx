@@ -1,3 +1,4 @@
+import {ReactElement, ReactNode} from "react";
 import "../styles/global.scss";
 import "reflect-metadata";
 import '../components/TextEditor/textEditor.scss';
@@ -7,7 +8,6 @@ import "styles/globals.css";
 
 import {NextPage} from "next";
 import {AppProps} from "next/app";
-import {ReactElement, ReactNode} from "react";
 
 
 type NextPageWithLayout = NextPage & {
@@ -21,7 +21,9 @@ type AppPropsWithLayout = AppProps & {
 const MyApp = ({Component, pageProps}: AppPropsWithLayout) => {
     const getLayout = Component.getLayout ?? ((page: ReactElement) => page);
 
-    return ({getLayout(<Component {...pageProps} />)});
+    return (
+        {getLayout(<Component {...pageProps} />)}
+);
 };
 
 export default MyApp;
