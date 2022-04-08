@@ -1,0 +1,78 @@
+// Styles in this file will be applied to the whole website.
+// Styles in "*.module.scss" will only be applied to components that import them.
+// Do NOT import this file into "*.module.scss" files.
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+// @import "./overwrites.scss";
+// Do NOT import this file into "*.module.scss" files
+@import "./otls-variables.scss";
+@tailwind base;
+@layer base {
+  html {
+    font-size: 16px;
+    @apply text-dark-gray;
+  }
+  h1 {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+  h2 {
+    font-size: 19px;
+    line-height: 1.33;
+  }
+  h3 {
+    @apply text-sm;
+    line-height: 1.33;
+  }
+  h4 {
+    font-size: 12px;
+    line-height: 1.33;
+  }
+  h5 {
+    font-size: 12px;
+    line-height: 1.33;
+  }
+  h6 {
+    font-size: 12px;
+    line-height: 1.33;
+  }
+  a {
+    text-decoration: none !important;
+  }
+}
+
+
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .text-editor-wrapper {
+    @apply flex w-full justify-between  items-center pr-10 pl-10  shadow-xl;
+  }
+}
+
+*,
+body {
+  font-family: "Karla", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-card {
+  border: none;
+  background: $card-background-color;
+  border-radius: 8px;
+  color: $light-text-color;
+  min-width: 25%;
+  padding: 44px;
+  height: fit-content;
+}
+
+.navbar-container {
+  height: 78px;
+  background: #F8F9FA;
+  padding: 0 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+

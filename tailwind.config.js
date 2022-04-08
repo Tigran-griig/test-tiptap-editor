@@ -1,0 +1,66 @@
+module.exports = {
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+    "node_modules/@credasinc/ctip-ui/components/**/*.{js,ts,jsx,tsx}",
+    "./layout/**/*.{js,ts,jsx,tsx}",
+    "./stories/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        blue: "#1fb6ff",
+        purple: "#7e5bef",
+        pink: "#ff49db",
+        orange: "#ff7849",
+        green: "#13ce66",
+        green1: "#007b78",
+        yellow: "#ffc82c",
+        "yellow-moderate": "#DCB322",
+        red: "#DC4935",
+        gray: {
+          100: "#F8F9FA",
+          200: "#E9ECEF",
+          300: "#DEE2E6",
+          400: "#CED4DA",
+          500: "#ADB5BD",
+          600: "#6C757D",
+          700: "#495057",
+          800: "#343A40",
+          900: "#212529",
+        },
+        "dark-gray": "#495057",
+        primary: "#007B78",
+        "primary-hover": "#005F5C",
+        "primary-hover-border": "#0257D5",
+        "primary-active": "#009D99",
+        "primary-active-border": "#009D99",
+        secondary: "#E4E7EB",
+        "secondary-hover": "#CED3DB",
+        "secondary-hover-border": "#C7CDD5",
+        "secondary-active": "#C7CDD5",
+        "secondary-active-border": "#BFC6D0",
+        danger: "#dc4935",
+        info: "#A4cdcb",
+        success: "#72A10D",
+        warning: "#DCB322",
+      },
+      fontFamily: {
+        sans: ["Karla", "sans-serif"],
+      },
+      borderRadius: {
+        lg: "0.5rem",
+      },
+      width: {
+        22: "1.375rem",
+      },
+      height: {
+        22: "1.375rem",
+      },
+      boxShadow: {
+        1: "0 0.3px 0 0 rgb(108,117,125)",
+      },
+    },
+  },
+  plugins: [],
+};

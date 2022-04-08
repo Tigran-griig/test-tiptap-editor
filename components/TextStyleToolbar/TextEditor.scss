@@ -1,0 +1,17 @@
+.text-editor {
+
+  &:focus {
+    svg {
+      path {
+        fill: #10B981;
+      }
+    }
+  }
+}
+.text-editor-isActive {
+  svg {
+    path {
+      fill: #10B981;
+    }
+  }
+}

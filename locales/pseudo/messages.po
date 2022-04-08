@@ -1,0 +1,1362 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-03-12 02:17+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pseudo\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/index.tsx:211
+msgid ""
+"\n"
+"                  View the community protocol to get details on what to do\n"
+"                  during an incident.\n"
+"                "
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:75
+#~ msgid "+ Add Risk Enhancer"
+#~ msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:82
+msgid "AUG"
+msgstr ""
+
+#: components/Site/Footer/SiteFooter.tsx:28
+msgid "About Us"
+msgstr ""
+
+#: components/SiteHeader.tsx:12
+msgid "Account Settings"
+msgstr ""
+
+#: components/Incidents/InterventionPlans/Table.tsx:83
+msgid "Actions"
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:76
+msgid "Add Risk Enhancer"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:311
+msgid "Add another"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:209
+msgid "Add description"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:327
+#: components/InputFile/index.tsx:93
+msgid "Add files"
+msgstr ""
+
+#: pages/index.tsx:190
+msgid "Add meeting"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:79
+msgid "Add new individual"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:342
+msgid "Add relationship details"
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:36
+#: components/Incidents/Overview/RiskEnhancer.tsx:93
+msgid "Add risk enhancer"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:77
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:102
+msgid "Add tag"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:309
+#: pages/index.tsx:199
+msgid "Add task"
+msgstr ""
+
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:103
+msgid "Add to calendar"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:163
+msgid "Address"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:34
+msgid "Agenda"
+msgstr ""
+
+#: components/Incidents/Overview/WorrisomeBehaviorCategories.tsx:6
+msgid "Aggressive Action"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:17
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:24
+msgid "All"
+msgstr ""
+
+#: components/SiteHeader.tsx:44
+msgid "Analysis"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:28
+msgid "Approve"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:31
+#~ msgid "Assign to"
+#~ msgstr ""
+
+#: components/Incidents/Details/Summary/TasksTable.tsx:69
+#: components/Incidents/NewPlan/index.tsx:55
+msgid "Assigned to"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:108
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:104
+msgid "Assigned to {0}"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:88
+#: components/Incidents/NewPlan/index.tsx:52
+msgid "Associated Individual"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:74
+msgid "Attendees"
+msgstr ""
+
+#: components/Incidents/InterventionPlans/Table.tsx:81
+#: components/Incidents/NewPlan/DetailForm.tsx:46
+msgid "Audience"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:55
+msgid "Basic Information"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:14
+msgid "Blank Note"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:15
+msgid "Bomb threats (making and/ or detonating explosive devices)"
+msgstr ""
+
+#: components/SiteHeader.tsx:13
+msgid "Brand"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:102
+msgid "Brooklyn 99"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:51
+msgid "CRITICAL INCIDENTS SINCE 1990"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:303
+msgid "CST"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:67
+msgid "CURRENT INCIDENT"
+msgstr ""
+
+#: components/Form/AccessibiltySelect/index.tsx:19
+msgid "Can edit"
+msgstr ""
+
+#: components/Form/AccessibiltySelect/index.tsx:20
+msgid "Can view"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:319
+msgid "Cancel"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:335
+#: components/Individual/Form/NewIndividual.tsx:184
+msgid "City"
+msgstr ""
+
+#: components/Incidents/Questionnaire/InlineEdit.tsx:80
+msgid "Click to edit"
+msgstr ""
+
+#: components/Events/Table.tsx:24
+msgid "Client Meeting"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:126
+msgid "Community Protocol"
+msgstr ""
+
+#: components/Incidents/Overview/WorrisomeBehaviorCategories.tsx:7
+msgid "Concerning interaction with adult/peer/classroom"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:210
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:25
+msgid "Confirmed"
+msgstr ""
+
+#: components/Site/Footer/SiteFooter.tsx:50
+#~ msgid "Copyright ©"
+#~ msgstr ""
+
+#: components/Site/Footer/SiteFooter.tsx:54
+msgid "Copyright © {0} Center For Trauma Informed Practices"
+msgstr ""
+
+#: components/Incidents/Form/NewIncident.tsx:234
+msgid "Create"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:149
+msgid "Create new"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:108
+msgid "Create template"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:108
+#: components/Incidents/InterventionPlans/Table.tsx:82
+msgid "Created on"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:86
+msgid "DEC"
+msgstr ""
+
+#: components/SiteHeader.tsx:32
+#: pages/index.tsx:113
+msgid "Dashboard"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:69
+#: components/Events/Forms/NewEventLinkToIncident.tsx:262
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:17
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:91
+msgid "Date"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:222
+msgid "Date & Time"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:56
+msgid "Date completed"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:84
+msgid "Date of birth"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:120
+msgid "Dec 12, 2021"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:40
+#: components/Events/Forms/NewEventLinkToIncident.tsx:86
+#: components/Events/Forms/NewEventLinkToIncident.tsx:233
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:19
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:30
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:147
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:61
+#: components/Incidents/Form/NewIncident.tsx:131
+#: components/Incidents/InterventionPlans/Table.tsx:80
+#: components/Incidents/NewPlan/DetailForm.tsx:30
+#: components/Incidents/NewPlan/index.tsx:49
+#: components/Incidents/Overview.tsx:202
+#: components/Individual/Form/NewIndividual.tsx:216
+msgid "Description"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:92
+msgid "Details"
+msgstr ""
+
+#: components/InputFile/index.tsx:81
+msgid "Drag files here"
+msgstr ""
+
+#: components/Incidents/Details/Summary/TasksTable.tsx:23
+#: components/Tasks/Table.tsx:71
+#~ msgid "Due On"
+#~ msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:38
+#~ msgid "Due on"
+#~ msgstr ""
+
+#: components/Incidents/Details/InviteModal.tsx:82
+msgid "Edit"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:102
+msgid "Email"
+msgstr ""
+
+#: components/Form/MailChips/index.tsx:93
+msgid "Enter email addresses"
+msgstr ""
+
+#: components/Events/Table.tsx:55
+#~ msgid "Event"
+#~ msgstr ""
+
+#: pages/index.tsx:87
+#~ msgid "Events"
+#~ msgstr ""
+
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:28
+msgid "File Name"
+msgstr ""
+
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:21
+#: components/Incidents/Details/Summary.tsx:320
+msgid "Files"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/index.tsx:36
+#: components/Incidents/Details/RiskEnhancers/Detail/ReferencesTab.tsx:17
+msgid "Files & Notes"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:18
+msgid "Fire setting"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:360
+msgid "Formal Categories for VTRA Protocol Activation"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:23
+msgid "Gang related intimidation and violence"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:140
+msgid "Gender"
+msgstr ""
+
+#: components/Incidents/Overview/WorrisomeBehaviorCategories.tsx:5
+msgid "Gesture"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:259
+msgid "Grade"
+msgstr ""
+
+#: components/Incidents/Table.tsx:107
+msgid "Group by"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:102
+msgid "Gun Violence"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:24
+msgid "Hate incidents motivated by factors including, but not limited to; race, culture, religion, and/or sexual orientation"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:18
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:18
+#: components/Incidents/Details/RiskEnhancers/RiskLevelText.tsx:13
+#: components/Tasks/Table.tsx:22
+msgid "High"
+msgstr ""
+
+#: pages/incidents/[id]/meetings.tsx:21
+#: pages/incidents/[id]/stage-one/risk-enhancers/[rid]/edit.tsx:80
+#: pages/incidents/[id]/stage-one/risk-enhancers/index.tsx:53
+#: pages/incidents/[id]/stage-two/intervention-plans/index.tsx:52
+msgid "High Risk"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:24
+msgid "High categorization of risk indicates the individual is at high or imminent risk for violence, and immediate intervention is required to prevent an act of violence from ocurring."
+msgstr ""
+
+#: components/Incidents/Questionnaire.tsx:33
+#: components/Incidents/Questionnaire.tsx:55
+#: components/Incidents/Questionnaire.tsx:61
+#: components/Incidents/Questionnaire.tsx:67
+#: components/Incidents/Questionnaire.tsx:73
+#: components/Incidents/Questionnaire.tsx:79
+msgid "High level incident details"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:120
+msgid "Historical"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:5
+msgid "How did it come to the Reporter's attention?"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:211
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:26
+msgid "Hypothesized"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:145
+msgid "If a person is not connected to healthy, mature, adult supports then what are they filling themselves with?"
+msgstr ""
+
+#: components/Tasks/Table.tsx:33
+msgid "In Progress"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:102
+#: components/Events/Forms/NewEventLinkToIncident.tsx:230
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:39
+#: components/Tasks/Table.tsx:168
+msgid "Incident"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:167
+#: pages/interventions/index.tsx:43
+msgid "Incident 001"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:22
+msgid "Incident Date"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:23
+msgid "Incident Description"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:217
+#: components/Incidents/NewPlan/index.tsx:20
+msgid "Incident Name"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/incident-overview.tsx:48
+msgid "Incident Overview"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:43
+msgid "Incident Risk Level"
+msgstr ""
+
+#: pages/incidents/share/index.tsx:8
+msgid "Incident Share"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:161
+#: components/Incidents/Form/NewIncident.tsx:62
+#: components/Incidents/Overview.tsx:116
+msgid "Incident Type"
+msgstr ""
+
+#: components/SiteHeader.tsx:36
+#: pages/incidents/index.tsx:23
+msgid "Incidents"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:16
+msgid "Incidents Prompt"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:212
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:27
+msgid "Indeterminable"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:5
+msgid "Indicators of suicidal ideation as it relates to fluidity (both homicidal and suicidal)"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:32
+msgid "Individual of concern"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:258
+msgid "Individuals"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:60
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:71
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:56
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:67
+msgid "Intervention"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:91
+msgid "Intervention Assigned"
+msgstr ""
+
+#: components/Incidents/InterventionPlans/List.tsx:41
+msgid "Intervention Plans"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:45
+msgid "Interventions"
+msgstr ""
+
+#: components/Events/Table.tsx:23
+msgid "Interview"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:33
+msgid "Interview - Client"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:32
+msgid "Interview - Witness"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:175
+#: components/Events/Forms/NewEventLinkToIncident.tsx:372
+#: components/Incidents/Details/InviteModal.tsx:48
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:81
+#: components/Incidents/Form/NewIncident.tsx:159
+msgid "Invite"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:377
+#: components/Incidents/Details/InviteModal.tsx:73
+#: components/Incidents/Form/NewIncident.tsx:164
+msgid "Invite, separate with commas"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:146
+#: components/Incidents/NewPlan/index.tsx:25
+msgid "Involved Individuals"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:227
+msgid "It is not required, but we highly recommend completing as many of the questions as possible."
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:81
+msgid "JUL"
+msgstr ""
+
+#: components/Incidents/Table.tsx:20
+#~ msgid "Last Updated"
+#~ msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:117
+msgid "Last updated"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:158
+#: components/Events/Forms/NewEventLinkToIncident.tsx:355
+msgid "Link"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:99
+msgid "Link or Create"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:126
+msgid "Link to existing"
+msgstr ""
+
+#: components/Events/Modal.tsx:32
+msgid "Link to incident"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:118
+#: components/Events/Forms/NewEventLinkToIncident.tsx:315
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:22
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:133
+msgid "Location"
+msgstr ""
+
+#: components/SiteHeader.tsx:14
+msgid "Login"
+msgstr ""
+
+#: components/SiteHeader.tsx:15
+msgid "Logout"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:44
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:20
+#: components/Incidents/Details/RiskEnhancers/RiskLevelText.tsx:14
+#: components/Tasks/Table.tsx:24
+msgid "Low"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:50
+msgid "Low categorization of risk dows not imply \"No risk\", but indicates the individual is at little risk for violence, and monitoring of the matter may be appropriate."
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:111
+msgid "Mass Shooting"
+msgstr ""
+
+#: components/Tasks/Table.tsx:23
+msgid "Medium"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:37
+#: components/Events/Forms/NewEventLinkToIncident.tsx:83
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:18
+msgid "Meeting"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/index.tsx:32
+msgid "Meeting Details"
+msgstr ""
+
+#: components/Incidents/Details/Meetings/MeetingTable.tsx:20
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:67
+msgid "Meeting Type"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:31
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:19
+#: components/Incidents/Details/RiskEnhancers/RiskLevelText.tsx:15
+msgid "Moderate"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:37
+msgid "Moderate categorization of risk indicates the individual is at an elevated risk for violence, and those measures currently in place or futher measures, including  monitoring, are required in an effort to manage the individual's future risk."
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:91
+msgid "Multiple schools received threats from various anonymous students."
+msgstr ""
+
+#: components/SiteHeader.tsx:16
+msgid "My Account"
+msgstr ""
+
+#: pages/index.tsx:21
+#~ msgid "My Events"
+#~ msgstr ""
+
+#: components/SiteHeader.tsx:17
+msgid "My Profile"
+msgstr ""
+
+#: components/Incidents/Card.tsx:84
+msgid "My Tasks"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:85
+msgid "NOV"
+msgstr ""
+
+#: components/Incidents/Form/NewIncident.tsx:120
+#: components/Incidents/InterventionPlans/Table.tsx:79
+#: components/Incidents/Overview.tsx:98
+#: components/Individual/Form/NewIndividual.tsx:64
+#: components/Individual/Form/NewIndividual.tsx:240
+msgid "Name"
+msgstr ""
+
+#: components/Incidents/Modal.tsx:20
+msgid "New Incident"
+msgstr ""
+
+#: components/Incidents/NewIndividualModal.tsx:18
+#: components/Incidents/Overview.tsx:270
+msgid "New Individual"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:22
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:31
+msgid "New Intervention"
+msgstr ""
+
+#: components/Events/Modal.tsx:15
+#: pages/incidents/[id]/new-meeting.tsx:23
+msgid "New Meeting"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/index.tsx:57
+msgid "New Notes"
+msgstr ""
+
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:47
+msgid "New Plan"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/risk-enhancers/add.tsx:57
+msgid "New Risk Enhancer"
+msgstr ""
+
+#: components/Incidents/Card.tsx:90
+#: components/Incidents/Details/Summary.tsx:187
+msgid "Next Meeting"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:57
+msgid "No"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/ReferencesTab.tsx:30
+msgid "No files or notes."
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:234
+msgid "No, Thanks"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/NewIntervention.tsx:61
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:10
+#: components/Incidents/NewPlan/DetailForm.tsx:67
+msgid "None"
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:24
+msgid "None added. Right click on any piece of content to add as a risk enhancer or add one here."
+msgstr ""
+
+#: components/Tasks/Table.tsx:34
+msgid "Not Started"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:115
+#: components/Incidents/Details/RiskEnhancers/Detail/NewIntervention.tsx:89
+msgid "Not started"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:111
+msgid "Nov 8, 2021"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:84
+msgid "OCT"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:400
+#: components/Incidents/Details/InviteModal.tsx:110
+msgid "OWNER"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:20
+msgid "Ongoing pervasive target issues with bullying and/or harassment"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:60
+msgid "Open review items (incomplete questionnaire responses)"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:52
+#: components/Events/Forms/NewEventLinkToIncident.tsx:246
+#: components/Events/Table.tsx:124
+#: components/Incidents/Card.tsx:72
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:25
+#: components/Incidents/Details/Summary.tsx:99
+#: components/Incidents/Form/NewIncident.tsx:143
+#: components/Incidents/Grid.tsx:61
+#: components/Incidents/NewPlan/index.tsx:21
+#: components/Incidents/Overview.tsx:182
+#: components/Incidents/Table.tsx:140
+#: components/Tasks/Table.tsx:154
+msgid "Organization"
+msgstr ""
+
+#: components/Incidents/NewPlan/DetailForm.tsx:53
+msgid "Parents"
+msgstr ""
+
+#: components/Incidents/Card.tsx:78
+msgid "Person of Interest"
+msgstr ""
+
+#: components/Incidents/Questionnaire.tsx:49
+msgid "Person of concern characteristics"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:285
+msgid "Person {0}"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:121
+msgid "Phone"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:14
+msgid "Possession of weapons (including replicas)"
+msgstr ""
+
+#: components/Incidents/Details/Summary/TasksTable.tsx:19
+#: components/Tasks/Table.tsx:66
+#~ msgid "Priority"
+#~ msgstr ""
+
+#: components/Site/Footer/SiteFooter.tsx:35
+msgid "Privacy Policy"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/ReferencesTab.tsx:21
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:68
+msgid "Questionnaire"
+msgstr ""
+
+#: components/SiteHeader.tsx:40
+msgid "Quick Menu"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:206
+msgid "Recent updates"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:136
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:143
+#: components/Incidents/Overview/Reference.tsx:79
+msgid "References"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:32
+msgid "Reject"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:337
+msgid "Relationships"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:121
+msgid "Reminders"
+msgstr ""
+
+#: components/Form/AccessibiltySelect/index.tsx:23
+msgid "Remove"
+msgstr ""
+
+#: components/Form/AccessibiltySelect/index.tsx:21
+msgid "Request file"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:92
+msgid "Review"
+msgstr ""
+
+#: components/Incidents/Grid.tsx:72
+#: components/Incidents/Table.tsx:151
+msgid "Risk"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:12
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:87
+#: components/Incidents/NewPlan/index.tsx:50
+msgid "Risk Enhancer"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:36
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:46
+msgid "Risk Enhancer Details"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/index.tsx:43
+#: components/Incidents/NewPlan/index.tsx:33
+msgid "Risk Enhancers"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:11
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:41
+msgid "Risk Level"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:75
+msgid "Risk level"
+msgstr ""
+
+#: components/VTRA/Table.tsx:33
+#~ msgid "Role"
+#~ msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:83
+msgid "SEP"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:322
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:16
+msgid "Save"
+msgstr ""
+
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:22
+msgid "Save as"
+msgstr ""
+
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:28
+msgid "Save as template"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:233
+msgid "School"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/ReferencesTab.tsx:39
+#: components/Incidents/Overview/FilesAndNote.tsx:16
+msgid "Search files & notes"
+msgstr ""
+
+#: pages/interventions/index.tsx:94
+msgid "Search interventions"
+msgstr ""
+
+#: components/Incidents/InterventionPlans/SearchForm.tsx:27
+msgid "Search plans"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/SearchForm.tsx:27
+msgid "Search risk enhancers"
+msgstr ""
+
+#: pages/index.tsx:172
+msgid "See all incidents"
+msgstr ""
+
+#: components/Incidents/NewPlan/CheckboxTree.tsx:91
+msgid "Select items to add"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:126
+msgid "Select tags"
+msgstr ""
+
+#: components/Incidents/Details/InviteModal.tsx:89
+msgid "Send"
+msgstr ""
+
+#: components/Incidents/Questionnaire.tsx:78
+msgid "Series Eight - Contextual Factors"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:23
+#: components/Incidents/Questionnaire.tsx:60
+msgid "Series Five - Target Typology"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:22
+#: components/Incidents/Questionnaire.tsx:54
+msgid "Series Four - Threat Maker Typology"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:19
+#: components/Incidents/Questionnaire.tsx:32
+msgid "Series One - The Incident"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:25
+#: components/Incidents/Questionnaire.tsx:72
+msgid "Series Seven - Family Dynamics"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:24
+#: components/Incidents/Questionnaire.tsx:66
+msgid "Series Six - Peer Dynamics"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:21
+#: components/Incidents/Questionnaire.tsx:48
+msgid "Series Three - Empty Vessel"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:20
+#: components/Incidents/Questionnaire.tsx:42
+msgid "Series Two - Attack Related Behaviors"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:4
+msgid "Serious violence or violence with intent to harm or kill"
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:19
+msgid "Sexual intimidation or assault"
+msgstr ""
+
+#: components/Incidents/Overview/WorrisomeBehaviorCategories.tsx:8
+msgid "Shift in Baseline"
+msgstr ""
+
+#: components/SiteHeader.tsx:18
+msgid "Sign Up"
+msgstr ""
+
+#: components/Events/Table.tsx:112
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:35
+#: components/Incidents/Details/Summary/TasksTable.tsx:58
+#: components/Incidents/Grid.tsx:39
+#: components/Incidents/Table.tsx:118
+#: components/Tasks/Table.tsx:140
+msgid "Sort by"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:47
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:89
+#: components/Incidents/Details/Summary/TasksTable.tsx:80
+#: components/Tasks/Table.tsx:182
+msgid "Status"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:322
+msgid "Street"
+msgstr ""
+
+#: components/Individual/Form/NewIndividual.tsx:278
+msgid "Student ID"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:26
+#: components/Events/Forms/NewEventLinkToIncident.tsx:72
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:53
+msgid "Subject"
+msgstr ""
+
+#: components/Incidents/Details/Summary/Chart.tsx:93
+msgid "Suicide"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:79
+msgid "Summary"
+msgstr ""
+
+#: components/Site/Footer/SiteFooter.tsx:32
+#: components/SiteHeader.tsx:19
+msgid "Support"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:59
+msgid "Tag already exists"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/FilesAndNotes.tsx:29
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:119
+msgid "Tags"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:302
+msgid "Tasks"
+msgstr ""
+
+#: components/Events/Table.tsx:22
+msgid "Team Meeting"
+msgstr ""
+
+#: components/Incidents/NewPlan/DetailForm.tsx:60
+msgid "Template"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:29
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:88
+msgid "Templates"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:135
+msgid "The better the data, the better the assessment and the better the assessment the better the intervention."
+msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:11
+msgid "The use of technology to communicate threats to harm/kill others or cause property damage (e.g.: computer, cell phone)"
+msgstr ""
+
+#: components/Incidents/Questionnaire.tsx:43
+msgid "Threats and behavioral details"
+msgstr ""
+
+#: components/Events/Forms/NewEventCreateIncident.tsx:84
+#: components/Events/Forms/NewEventLinkToIncident.tsx:279
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:105
+msgid "Time"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/MeetingDetailsForm.tsx:119
+msgid "Time Zone"
+msgstr ""
+
+#: components/Incidents/Details/NewMeeting/NewNotesForm.tsx:48
+#: components/Incidents/NewPlan/DetailForm.tsx:17
+#: components/Incidents/NewPlan/index.tsx:48
+msgid "Title"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:235
+msgid "Trends & Critical Periods"
+msgstr ""
+
+#: components/Incidents/Grid.tsx:50
+#: components/Incidents/Table.tsx:129
+msgid "Type"
+msgstr ""
+
+#: components/Form/InviteSelect/index.tsx:144
+msgid "Type to search"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:79
+msgid "Unassigned"
+msgstr ""
+
+#: components/Files/Table.tsx:10
+#: components/Incidents/Details/Summary/FilesTable.tsx:20
+#~ msgid "Updated by"
+#~ msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/FilterGroup.tsx:13
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:90
+msgid "Updated on"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Create/index.tsx:110
+#: components/Incidents/Details/RiskEnhancers/Detail/index.tsx:106
+msgid "Updated on {0}"
+msgstr ""
+
+#: components/Files/Table.tsx:11
+#: components/Incidents/Details/Summary/FilesTable.tsx:21
+#~ msgid "Uploaded on"
+#~ msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:206
+#: components/Incidents/Form/NewIncident.tsx:111
+#: components/Incidents/Overview.tsx:169
+#: components/Incidents/types.tsx:29
+#: pages/index.tsx:60
+msgid "VTRA"
+msgstr ""
+
+#: pages/index.tsx:93
+#~ msgid "VTRA Contacts & Community Protocol"
+#~ msgstr ""
+
+#: pages/index.tsx:23
+#~ msgid "VTRA Contract & Community Protocol"
+#~ msgstr ""
+
+#: pages/index.tsx:89
+#~ msgid "VTRA Contract & community protocol"
+#~ msgstr ""
+
+#: components/Incidents/Overview/VTRACategories.tsx:8
+msgid "Verbal/written threats to kill others (\"clear, direct and plausible\")"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:40
+msgid "Victim"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:29
+#: components/Incidents/NewPlan/index.tsx:40
+msgid "Victims"
+msgstr ""
+
+#: components/Incidents/Details/Summary.tsx:131
+msgid "View"
+msgstr ""
+
+#: pages/index.tsx:219
+msgid "View PDF"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:158
+#: components/Incidents/NewPlan/index.tsx:237
+msgid "View incomplete items"
+msgstr ""
+
+#: pages/index.tsx:211
+#~ msgid "View the community protocol to get details on what to do during an incident."
+#~ msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:6
+msgid "Was there stated:"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:10
+msgid "What was the motivation or perceived cause of the incident?"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:16
+msgid "What was the response of others who were present at the time of the incident? Did they add to our detract from the Justification Process?"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:13
+msgid "What was the response of the target (if present) at the time of the incident? Did they add to our detract from the Justification Process?"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:4
+msgid "Where did the incident happen & when?"
+msgstr ""
+
+#: components/Incidents/Questionnaire/SeriesOne.tsx:7
+msgid "Who was present & under what circumstances did the incident occur?"
+msgstr ""
+
+#: components/Incidents/Overview.tsx:36
+msgid "Witness"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:28
+#: components/Incidents/NewPlan/index.tsx:37
+msgid "Witnesses"
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:184
+#: components/Incidents/Form/NewIncident.tsx:88
+#: components/Incidents/Overview.tsx:143
+#: components/Incidents/types.tsx:28
+#: pages/index.tsx:67
+msgid "Worrisome Behavior"
+msgstr ""
+
+#: components/Incidents/Overview/WorrisomeBehaviorCategories.tsx:4
+msgid "Writing/Drawing/Picture"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/RiskEnhancerTable.tsx:57
+msgid "Yes"
+msgstr ""
+
+#: components/Incidents/NewPlan/index.tsx:219
+msgid "You have [x] incomplete questions that we recommend you finish."
+msgstr ""
+
+#: components/Events/Forms/NewEventLinkToIncident.tsx:347
+msgid "Zip"
+msgstr ""
+
+#: components/Incidents/Details/Meetings/UpcomingMeetings.tsx:37
+msgid "add meeting"
+msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/index.tsx:50
+msgid "add risk enhancer"
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:126
+#: pages/incidents/[id]/new-meeting.tsx:33
+#: pages/incidents/[id]/stage-one/risk-enhancers/[rid]/edit.tsx:52
+#: pages/incidents/[id]/stage-one/risk-enhancers/add.tsx:36
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:81
+#: pages/interventions/[id].tsx:103
+#: pages/interventions/create.tsx:91
+msgid "cancel"
+msgstr ""
+
+#: components/Incidents/Questionnaire/ItemProcess.tsx:31
+msgid "complete"
+msgstr ""
+
+#: components/Incidents/Overview/RiskEnhancer.tsx:113
+msgid "confirm"
+msgstr ""
+
+#: pages/incidents/index.tsx:29
+#: pages/index.tsx:124
+msgid "create incident"
+msgstr ""
+
+#: pages/interventions/create.tsx:112
+msgid "create intervention"
+msgstr ""
+
+#: components/Incidents/InterventionPlans/List.tsx:48
+msgid "create new"
+msgstr ""
+
+#: pages/interventions/create.tsx:56
+msgid "create new intervention"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/risk-enhancers/[rid]/index.tsx:54
+msgid "edit"
+msgstr ""
+
+#: pages/index.tsx:74
+#~ msgid "events"
+#~ msgstr ""
+
+#: components/Incidents/Overview/Reference.tsx:44
+msgid "files and notes"
+msgstr ""
+
+#: pages/interventions/index.tsx:54
+msgid "high risk"
+msgstr ""
+
+#: pages/index.tsx:62
+#~ msgid "incidents"
+#~ msgstr ""
+
+#: pages/interventions/[id].tsx:135
+msgid "intervention"
+msgstr ""
+
+#: pages/index.tsx:145
+msgid "new meeting"
+msgstr ""
+
+#: components/Incidents/Overview/Reference.tsx:50
+msgid "risk enhancers"
+msgstr ""
+
+#: pages/incidents/[id]/new-meeting.tsx:36
+#: pages/incidents/[id]/stage-one/incident-overview.tsx:55
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:77
+#: pages/incidents/[id]/stage-one/risk-enhancers/[rid]/edit.tsx:55
+#: pages/incidents/[id]/stage-one/risk-enhancers/add.tsx:39
+#: pages/incidents/[id]/stage-two/intervention-plans/new-plan.tsx:87
+#: pages/interventions/[id].tsx:109
+#: pages/interventions/create.tsx:97
+msgid "save"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/questionnaire.tsx:82
+msgid "save and continue"
+msgstr ""
+
+#: pages/incidents/[id]/stage-one/incident-overview.tsx:58
+msgid "save and go to questionnaire"
+msgstr ""
+
+#: pages/interventions/[id].tsx:63
+msgid "talk to school"
+msgstr ""
+
+#: pages/index.tsx:86
+#~ msgid "tasks"
+#~ msgstr ""
+
+#: components/Incidents/Card.tsx:104
+msgid "view"
+msgstr ""
+
+#: pages/index.tsx:108
+#~ msgid "vtra"
+#~ msgstr ""
+
+#: components/Form/MailChips/index.tsx:50
+msgid "{email} has already been added."
+msgstr ""
+
+#: components/Form/MailChips/index.tsx:54
+msgid "{email} is not a valid email address."
+msgstr ""
+
+#: pages/incidents/[id]/index.tsx:35
+#~ msgid "{incidentName}"
+#~ msgstr ""
+
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:68
+#: components/Incidents/Details/RiskEnhancers/Detail/DetailForm.tsx:74
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:23
+#: components/Incidents/Details/RiskEnhancers/Detail/InterventionView.tsx:29
+#: components/Incidents/Details/RiskEnhancers/Detail/NewIntervention.tsx:26
+msgid "{label}"
+msgstr ""
+
+#: components/Collapse/index.tsx:54
+#: components/PageHeader/index.tsx:28
+msgid "{title}"
+msgstr ""
