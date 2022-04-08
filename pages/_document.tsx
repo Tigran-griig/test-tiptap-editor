@@ -3,10 +3,6 @@ import { Hocuspocus } from "@hocuspocus/server";
 
 class MyDocument extends Document {
   render() {
-      const server = new Hocuspocus({
-          port: 1234,
-      });
-      server.listen();
     return (
       <Html>
         <Head>

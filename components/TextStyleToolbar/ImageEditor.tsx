@@ -1,7 +1,7 @@
 import React from 'react'
-import LargeImageIcon from '../../Atoms/Icons/LargeImageIcon'
-import SmallImageIcon from '../../Atoms/Icons/SmallImageIcon'
-import MediumImageIcon from '../../Atoms/Icons/MediumImageIcon'
+import LargeImageIcon from '../Icons/LargeImageIcon'
+import SmallImageIcon from '../Icons/SmallImageIcon'
+import MediumImageIcon from '../Icons/MediumImageIcon'
 
 const ImageEditor = () => (
   <div className="w-[124px] h-[44px] bg-stone-900 flex justify-around items-center rounded-[6px] shadow-sm pl-[6px] pr-[6px] pt-[6px] pb-[6px] ">

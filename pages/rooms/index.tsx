@@ -1,7 +1,7 @@
 import { NextPage } from "next";
 import Link from "next/link";
 import { useRef, useCallback } from "react";
-import { Refreshable } from "utils/refreshable";
+import { Refreshable } from "../../utils/refreshable";
 
 const Page: NextPage = () => {
     const ref = useRef<Refreshable>();

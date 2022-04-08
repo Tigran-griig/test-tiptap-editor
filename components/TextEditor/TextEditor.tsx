@@ -1,4 +1,4 @@
-import React, {Dispatch, SetStateAction, useCallback, useEffect, useState} from 'react'
+import React, {Dispatch, SetStateAction, useCallback, useMemo, useState,useEffect} from 'react'
 import {useEditor, EditorContent} from '@tiptap/react'
 import StarterKit from '@tiptap/starter-kit'
 import {Placeholder} from '@tiptap/extension-placeholder'
@@ -19,7 +19,7 @@ import {IndexeddbPersistence} from 'y-indexeddb'
 interface IUser {
     name: string;
     id?: string;
-    color?:string;
+    color?: string;
 }
 
 const ydoc = new Y.Doc();
@@ -42,13 +42,14 @@ const getRandomColor = () => getRandomElement(colors);
 
 const TextEditor = ({
                         setEditorState,
-                        setEditor
-                    }: { setEditorState: Dispatch<SetStateAction<any>>; setEditor: Dispatch<SetStateAction<any>> }) => {
-    const {query} = useRouter();
-    const {roomId} = query;
+                        setEditor,
+                        roomId,
+                    }: { setEditorState: Dispatch<SetStateAction<any>>; setEditor: Dispatch<SetStateAction<any>>,roomId:string, }) => {
+
     const [users, setUsers] = useState<IUser[] | null>([{name: "Vazgen", id: "23"}, {name: "Armen", id: "2345"}]);
     const [currentUser, setCurrentUser] = useState<IUser>({
-        name: `${roomId}`, color: getRandomColor()});
+        name: `${roomId}`, color: getRandomColor()
+    });
 
     const setName = useCallback(() => {
         const name = (window.prompt("Name") || "").trim().substring(0, 32);
@@ -58,15 +59,16 @@ const TextEditor = ({
         }
     }, [currentUser]);
 
-    new IndexeddbPersistence(`${query?.roomId}`, ydoc)
+    // new IndexeddbPersistence(`${query?.roomId}`, ydoc)
 
     const provider = new HocuspocusProvider({
-        url: `ws://127.0.0.1:1234`,
-        name: `${query?.roomId}`,
+        url: `ws://192.168.10.171:1234`,
+        name: `${roomId}`,
         document: ydoc,
+        broadcast: false,
+        forceSyncInterval: 1000,
     })
-    const {awareness, configuration} = provider
-    const {store} = ydoc;
+
 
     const editor = useEditor({
         extensions: [
@@ -94,6 +96,7 @@ const TextEditor = ({
                 document: provider.document,
             }),
         ],
+
         onUpdate({editor}) {
             setEditorState(editor.getJSON());
         },
