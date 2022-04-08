@@ -9,12 +9,9 @@
   "resolutions": {
     "webpack": "^5"
   },
-  "prettier": "@credasinc/prettier-config",
   "dependencies": {
     "@babel/core": "^7.17.5",
     "@babel/plugin-proposal-decorators": "^7.17.2",
-    "@credasinc/ctip-ui": "^3.0.0",
-    "@credasinc/prettier-config": "^1.0.5",
     "@faker-js/faker": "^6.0.0-beta.0",
     "@fortawesome/fontawesome-pro": "^6.1.1",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
