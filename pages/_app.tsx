@@ -9,7 +9,7 @@ import type { AppProps } from "next/app";
 
 export default function MyApp({
   Component,
-  pageProps: {...pageProps },
+  pageProps,
 }: AppProps) {
 
   return (
